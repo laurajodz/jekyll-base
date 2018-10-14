@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll everyone including laura!"
+title:  "Welcome to Jekyll everyone including laura let's skip a ci!"
 date:   2015-02-12 13:46:40
 categories: jekyll update
 ---
